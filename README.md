@@ -7,12 +7,12 @@ Conor Finegan
 TrackPad Experience
 
 Good:
-	*Affordance:Gesture Support \n
-	*Consistency/Affordance:Prevents accidental touches (Blob Sensing)\n
-	*Feedback:Smooth pointer acceleration
-	*Feedback: Trackpad material
-	*Feedback/Visibility/Mapping: Shake to Locate
-	*Angled/Raised touch surface / Good Ergonomics
+	* Affordance:Gesture Support \n
+	* Consistency/Affordance:Prevents accidental touches (Blob Sensing)\n
+	* Feedback:Smooth pointer acceleration
+	* Feedback: Trackpad material
+	* Feedback/Visibility/Mapping: Shake to Locate
+	* Angled/Raised touch surface / Good Ergonomics
 
 Bad: 
 	Feedback/Consistency: Notchy pointer movement. 
